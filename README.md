@@ -37,18 +37,11 @@ A beginner-friendly Python data-analysis project that reads student records from
 2. Open this folder in VS Code.
 3. Open Terminal → New Terminal.
 4. Install the dependencies:
-
-   ```bash
-   python -m pip install pandas numpy
-   ```
-
 5. Run the program:
 
    ```bash
    python main.py
    ```
-
-   On some Windows setups, use `py main.py`.
 
 ## Rules used in this sample
 
@@ -75,4 +68,4 @@ The program prints the analysis in the terminal and creates `student_analysis_re
 - Add screenshots of your actual output to `screenshots/`.
 - Replace any placeholder student details in the documentation with your own.
 - Create a GitHub repository and upload the project files.
-- Add your actual GitHub repository URL to your documentation and submit it using the Google Form provided by your trainer.
+
