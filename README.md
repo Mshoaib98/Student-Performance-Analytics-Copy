@@ -61,11 +61,3 @@ A student passes only when they score at least 40 in every subject and have at l
 
 The program prints the analysis in the terminal and creates `student_analysis_results.csv` with the original data plus Total, Average, Grade, and Result columns.
 
-## Before submitting
-
-- Run the program and confirm it completes without errors.
-- Inspect the generated CSV.
-- Add screenshots of your actual output to `screenshots/`.
-- Replace any placeholder student details in the documentation with your own.
-- Create a GitHub repository and upload the project files.
-
